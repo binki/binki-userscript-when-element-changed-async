@@ -18,6 +18,7 @@ Include this in your userscript using [`@require`](https://wiki.greasespot.net/M
   })();
   console.log(`Found element`, soughtElement);
 })();
+```
 
 ## API
 

@@ -23,7 +23,7 @@ Include this in your userscript using [`@require`](https://wiki.greasespot.net/M
 ## API
 
 ```js
-whenElementCHangedAsync(target, options);
+whenElementChangedAsync(target, options);
 ```
 
 Parameters:
